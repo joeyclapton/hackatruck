@@ -1,6 +1,6 @@
 # Hacktruck
 Estudos sobre o curso do HackaTruck - Conceitos e Fundamentos: Algoritmos, Programação Orientada a Objetos com Swift e JavaScript e RESTful APIs
-<a> testando <a/>
+<a href="https://globo.com"> testando <a/>
 ## Conteúdo Programático:
 
 Algoritmos em Swift (15 horas)
