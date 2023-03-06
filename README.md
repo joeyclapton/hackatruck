@@ -1,11 +1,11 @@
 # Hacktruck
-Estudos sobre o curso do HackaTruck - Conceitos e Fundamentos: Algoritmos, Programação Orientada a Objetos com Swift e JavaScript e RESTful APIs
-<a href="https://globo.com" target="_blank"> testando <a/>
+Estudos sobre o curso do [HackaTruck](https://hackatruck.com.br/) - Conceitos e Fundamentos: Algoritmos, Programação Orientada a Objetos com Swift e JavaScript e RESTful APIs
+
 ## Conteúdo Programático:
 
-Algoritmos em Swift (15 horas)
+Algoritmos em Swift (15 horas) ✅
 
-1. Conceitos Iniciais.
+1. Conceitos Iniciais. 
 
 2. Comandos de Decisão.
 
@@ -13,7 +13,7 @@ Algoritmos em Swift (15 horas)
 
 4. Funções.
 
-Orientação a Objetos em Swift (15 horas)
+Orientação a Objetos em Swift (15 horas) ✅
 
 1. Conceitos Iniciais.
 
